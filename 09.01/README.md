@@ -25,4 +25,6 @@ Seadmel on ekraan ja kaks nuppu. Seadme sisselülitamisel näitab ekraan arvu 0.
    * arv 99;
    * arv 99, kui lubatakse vajutada nuppe mitte rohkem kui 10 korda.
 
-Kirjutage programm, mis väljastab ekraanile igale variandile vastav sõneline lahendus.
+Koostage algorith, mis väljastab ekraanile igale variandile vastav sõneline lahendus. 
+
+Salvesta fail juhtimine.fprg
