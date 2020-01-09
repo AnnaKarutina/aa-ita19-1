@@ -31,3 +31,9 @@ Seadmel on ekraan ja kaks nuppu. Seadme sisselülitamisel näitab ekraan arvu 0.
 Koostage algorith, mis väljastab ekraanile igale variandile vastav sõneline lahendus. 
 
 Salvesta fail `juhtimine.fprg`
+### Ülesanne 4
+Varusta kõik oma programmid kommentaaridega:
+* failinimi
+* autor  - Ees ja Perenimi
+* programmi loomise kuupäev
+* programmi versioon (0.1 - algversioon, 0.2 - parandused pärast salvestamist jne)
