@@ -37,3 +37,5 @@ Varusta kõik oma programmid kommentaaridega:
 * autor  - Ees ja Perenimi
 * programmi loomise kuupäev
 * programmi versioon (0.1 - algversioon, 0.2 - parandused pärast salvestamist jne)
+### Ülesanne 5
+Kopeeri `AA` kataloog GoogleDrive-i ja jaga [anna.karutina@khk.ee]("mailto:anna.karutina@khk.ee") vaatamisõigustega
