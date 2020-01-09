@@ -11,13 +11,16 @@
 * kodus - [laadi alla ja installeeri](http://www.flowgorithm.org/)
 ## Ülesanded lahendamiseks
 ### Ülesanne 1
+Pane Flowgorithm programmis kartulisalati valmistamise algoritm kirja ja proovi käivitada ning jälgi, kas sammud sooritatakse õiges järjekorras.
+
+Salvesta fail nimega `kartulisalat.fprg`
 ### Ülesanne 2
 Koosta algoritm, mis väljastab ekraani sinu kohta informatsiooni:
  * Ees ja Perenimi
  * Kursus
  * e-mail
 
-Salvesta fail nimega mina.fprg
+Salvesta fail nimega `mina.fprg`
 ### Ülesanne 3
 Seadmel on ekraan ja kaks nuppu. Seadme sisselülitamisel näitab ekraan arvu 0. Nupule A vajutamisel ekraanil olevat arvu korrutatakse kahega, nupule B vajutamisel liidetakse ekraanil olevale arvule üks juurde. Kuidas tuleb vajutada nuppe, et ekraanile ilmuks:
 
@@ -27,4 +30,4 @@ Seadmel on ekraan ja kaks nuppu. Seadme sisselülitamisel näitab ekraan arvu 0.
 
 Koostage algorith, mis väljastab ekraanile igale variandile vastav sõneline lahendus. 
 
-Salvesta fail juhtimine.fprg
+Salvesta fail `juhtimine.fprg`
