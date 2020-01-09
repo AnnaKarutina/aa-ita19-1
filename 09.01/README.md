@@ -10,6 +10,10 @@
 * kooli arvutis - O:\anna jaoks\Flowgorithm
 * kodus - [laadi alla ja installeeri](http://www.flowgorithm.org/)
 ## Ülesanded lahendamiseks
+### Ettevalmistus
+* Loo `K:` kettal kataloog nimega `AA`
+* Loo iga praktikumi jaoks eraldi kataloog nimega `praksNR`, kus `NR`on vastava praktikumi number - tänaseks siis `praks1`
+* Salvesta antud kaustas kõik antud praktikumi programmid
 ### Ülesanne 1
 Pane Flowgorithm programmis kartulisalati valmistamise algoritm kirja ja proovi käivitada ning jälgi, kas sammud sooritatakse õiges järjekorras.
 
