@@ -12,7 +12,7 @@
 #### 06.01 - 10.01
 ##### Praktilised tööd - 4 tundi
   * 09.01 - Sissejuhatus ainesse
-  * 10.01 -   
+  * 10.01 -  Andmetüübid ja muutujad, Operaatorid ja avaldised
 ##### Iseseisev töö - 3 tundi
   * Kodune ülesanne 1
 #### 13.01 - 17.01
