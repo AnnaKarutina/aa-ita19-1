@@ -1,7 +1,7 @@
 # 10.01
 ## Tunni teemad
 * Andmetüübid ja väärtused
-    * String (Sõne, Tekst) - `"Tere Hommikust!"`, `Mart` jne
+    * String (Sõne, Tekst) - `"Tere Hommikust!"`, `"Mart"` jne
     * Integer (Täisarv) - `1` ,  `2` , `-56` jne
     * Real (Komaga arv) - `2.5` , `-7.8` jne
     * Boolean (tõeväärtus) - `true`, `false`
@@ -74,15 +74,15 @@ mahajäänud inimeste arvu
 Väljatrükk peab koosnema täislauseteks.
 
 Salvesta fail `buss.fprg`
-### Ülesanne 4
+### Ülesanne 4 - <b>KODUNE Ülesanne</b>
 Küpsisetordi tegemisel laotakse terved ruudukujulised küpsised ristkülikukujulisele kandikule. Kandikule mahub ühes kihis `kandikuPikkus * kandikuLaius` küpsist. Laotakse `tordiPaksus` kihti. Ühes küpsisepakis on `küpsistPakis` küpsist. Püstitage ülesanne küpsisetordi tegemise kohta ja lahendage see. Programm peab väljastama ülesande püstituse ja kõik algväärtuseid ja tulemusi.
 
 Salvesta fail `tort.fprg`
-### Ülesanne 4
+### Ülesanne 5
 Varusta kõik oma programmid kommentaaridega:
 * failinimi
 * autor  - Ees ja Perenimi
 * programmi loomise kuupäev
 * programmi versioon (0.1 - algversioon, 0.2 - parandused pärast salvestamist jne)
-### Ülesanne 5
+### Ülesanne 6
 Kopeeri `AA` kataloogs oleva `praks2` kataloog GoogleDrive-i ja <b>kui ei ole veeö seda teinud, siis</b> jaga [anna.karutina@khk.ee]("mailto:anna.karutina@khk.ee") vaatamisõigustega.
