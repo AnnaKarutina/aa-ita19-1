@@ -85,4 +85,4 @@ Varusta kõik oma programmid kommentaaridega:
 * programmi loomise kuupäev
 * programmi versioon (0.1 - algversioon, 0.2 - parandused pärast salvestamist jne)
 ### Ülesanne 6
-Kopeeri `AA` kataloogs oleva `praks2` kataloog GoogleDrive-i ja <b>kui ei ole veeö seda teinud, siis</b> jaga [anna.karutina@khk.ee]("mailto:anna.karutina@khk.ee") vaatamisõigustega.
+Kopeeri `AA` kataloogs oleva `praks2` kataloog GoogleDrive-i ja <b>kui ei ole veel seda teinud, siis</b> jaga [anna.karutina@khk.ee]("mailto:anna.karutina@khk.ee") vaatamisõigustega.
