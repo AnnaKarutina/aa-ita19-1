@@ -46,6 +46,7 @@ Antud on [täisnurkse](https://et.wikipedia.org/wiki/T%C3%A4isnurkne_kolmnurk) k
 
 Salvesta fail `kolmnurk_taisnurkne.fprg`
 ## Tõeväärtused
+### Ülesanne 5
 Kontrollida kõikide a, b, c, d väärtuste kombinatsioonide korral, et antud tingimus kehtib: `a && b || c && d` on sama nagu `(a && b) || (c && d)`. Väljastada iga väärtuste kombinatsiooni korral nii `a`, `b`, `c`, `d` väärtused kui ka vahearvutuste tulemused ning tulemuse:
 Näiteks osa väljastamisest:
 ```
@@ -85,11 +86,13 @@ Spikker: Kõikide väärtuste kombinatsioonide leidmiseks tuleb leida, millega o
 `v`|`v`|`v`|`t`
 `v`|`v`|`v`|`v`
 
-### Ülesanne 5
+Salvesta fail `loogika1.fprg`
+
+### Ülesanne 6
 Varusta kõik oma programmid kommentaaridega:
 * failinimi
 * autor  - Ees ja Perenimi
 * programmi loomise kuupäev
 * programmi versioon (0.1 - algversioon, 0.2 - parandused pärast salvestamist jne)
-### Ülesanne 6
+### Ülesanne 7
 Kopeeri `AA` kataloogs oleva `praks3` kataloog GoogleDrive-i ja <b>kui ei ole veel seda teinud, siis</b> jaga [anna.karutina@khk.ee]("mailto:anna.karutina@khk.ee") vaatamisõigustega.
