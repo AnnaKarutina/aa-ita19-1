@@ -1,6 +1,24 @@
 # 13.01
 ## Tunni teemad
 * Tõeväärtused
+    * `Boolean` tüüpi väärtused
+    * `true` - tõene
+    * `false` - väär
+
+Loogika operaatorite väärtuste tabel:
+* `a` - tõeväärtus
+* `b` - tõeväärtus
+* `c = a && b` - and - JA 
+* `d = a || b` - or - VÕI
+* `e = !a` - not - EITUS
+
+|a|b|c|d|e|
+|:---:|:---:|:---:| :---:|:---:|
+`false`|`false`|`false`|`false`|`true`
+`true`|`false`|`true`|`false`|`false`
+`false`|`true`|`true`|`false`|`true`
+`true`|`true`|`true`|`true`|`false`
+
 ## Teoreetiline materjall
 [Andmetüübid](https://web.htk.tlu.ee/digitaru/programmeerimine/chapter/andmetuubid/)
 
@@ -16,7 +34,7 @@ On antud ringi ümbermõõt (reaalarv). Leida selle ringjoonega piiratud ala pin
 
 Salvesta fail nimega `ringi_pindala.fprg`
 ### Ülesanne 2
-1. Antud on kolmnurga küljed a, b, c (reaalarvud). Leida pindala [Heroni valemi](https://et.wikipedia.org/wiki/Heroni_valem) järgi.
+Antud on kolmnurga küljed a, b, c (reaalarvud). Leida pindala [Heroni valemi](https://et.wikipedia.org/wiki/Heroni_valem) järgi. Ruutjuure arvutamiseks kasutame funktsiooni `Sqrt(väärtus)`, mis arvutab väärtuse ruutjuure. Väärtus on võimalik tekitada dünaamiliselt - ehk valemi abil.
 
 Salvesta fail nimega `kolmnurk_heron.fprg`
 ### Ülesanne 3
@@ -27,6 +45,46 @@ Salvesta fail `kolmnurk_vordkylgne.fprg`
 Antud on [täisnurkse](https://et.wikipedia.org/wiki/T%C3%A4isnurkne_kolmnurk) kolmnurga kaatetid (reaalarvud). Leida hüpotenuus ja pindala.
 
 Salvesta fail `kolmnurk_taisnurkne.fprg`
+## Tõeväärtused
+Kontrollida kõikide a, b, c, d väärtuste kombinatsioonide korral, et antud tingimus kehtib: `a && b || c && d` on sama nagu `(a && b) || (c && d)`. Väljastada iga väärtuste kombinatsiooni korral nii `a`, `b`, `c`, `d` väärtused kui ka vahearvutuste tulemused ning tulemuse:
+Näiteks osa väljastamisest:
+```
+a = true
+b = true
+c = true
+d = true
+---------------------------------
+a && b = true
+a && b || c = true
+a && b || c && d = true
+---------------------------------
+(a && b) = true
+(c && d) = true
+(a && b) || (c && d) = true
+---------------------------------
+Kehtib!
+```
+Spikker: Kõikide väärtuste kombinatsioonide leidmiseks tuleb leida, millega on võrdne 2<sup>muutujate_arv</sup>. Näiteks antud juhul kasutame 4 muutujat, seega väärtuste kombinatsioonide arv on 2<sup>4</sup>=16. Kõikide väärtuste leidmiseks parem koostada järgmise tabeli: (t - tõene (true), v - väär (false) )
+
+|a|b|c|d|
+|:---:| :---:|:---:|:---:|
+`t`|`t`|`t`|`t`
+`t`|`t`|`t`|`v`
+`t`|`t`|`v`|`t`
+`t`|`t`|`v`|`v`
+`t`|`v`|`t`|`t`
+`t`|`v`|`t`|`v`
+`t`|`v`|`v`|`t`
+`t`|`v`|`v`|`v`
+`v`|`t`|`t`|`t`
+`v`|`t`|`t`|`v`
+`v`|`t`|`v`|`t`
+`v`|`t`|`v`|`v`
+`v`|`v`|`t`|`t`
+`v`|`v`|`t`|`v`
+`v`|`v`|`v`|`t`
+`v`|`v`|`v`|`v`
+
 ### Ülesanne 5
 Varusta kõik oma programmid kommentaaridega:
 * failinimi
