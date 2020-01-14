@@ -1,11 +1,11 @@
 # 14.01
 ## Tunni teemad
-###Tõeväärtused
+### Tõeväärtused
     * `Boolean` tüüpi väärtused
     * `true` - tõene
     * `false` - väär
 
-###Võrdlus operaatorid:
+### Võrdlus operaatorid:
 
 |operaator|sümbol|
 |:---:|:---:|
