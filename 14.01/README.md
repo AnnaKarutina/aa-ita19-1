@@ -39,7 +39,7 @@ Kirjutada programm, mis arvutab rõnga pindala. Programm peab kontrollima, kas r
 Salvesta fail nimega `mata3.fprg`
 
 ### Ülesanne 3
-Kirjutada programm, mis teisendab minutid ja sekundid sekunditeks. Minutite ja sekundite defineerimiseks kasutada double tüüpi, väärtused on komaga arvud, kus täisosa on minutite arv ja osa, mis on kirjutatud peale koma on sekundite arv (Näiteks 1.45 on 1 minut 45 sekundit). 
+Kirjutada programm, mis teisendab minutid ja sekundid sekunditeks. Minutite ja sekundite defineerimiseks kasutada real tüüpi, väärtused on komaga arvud, kus täisosa on minutite arv ja osa, mis on kirjutatud peale koma on sekundite arv (Näiteks 1.45 on 1 minut 45 sekundit). 
 
 Programm peab kontrollima omistatud väärtuste õigsust (Näiteks väärtus ei saa olla võrdne 2.90, kuna sekundite maksimaalne väärtus on 60, kuid väärtus 2.40 on võimalik, see vastab 2 minutile ja 40 sekundile)
 
