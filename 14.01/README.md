@@ -12,7 +12,7 @@
 võrdub|`==`|
 ei võrdu |`!=`|
 suurem|`>`|
-väiksem|`<==>`|
+väiksem|`<`|
 suurem võrdub|`>=`|
 väiksem võrdub|`<=`|
 
