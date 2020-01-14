@@ -1,9 +1,9 @@
 # 14.01
 ## Tunni teemad
 ### Tõeväärtused
-    * `Boolean` tüüpi väärtused
-    * `true` - tõene
-    * `false` - väär
+- `Boolean` tüüpi väärtused
+- `true` - tõene
+- `false` - väär
 
 ### Võrdlus operaatorid:
 
