@@ -28,7 +28,10 @@ väiksem võrdub|`<=`|
 * Loo iga praktikumi jaoks eraldi kataloog nimega `praksNR`, kus `NR`on vastava praktikumi number - tänaseks siis `praks4`
 * Salvesta antud kaustas kõik antud praktikumi programmid
 
+### Ülesanne 1
+Kirjutada programm, mis arvutab kahe reaalarvu jagatise. Programm peab väljastama mõlema arvu ja jagatise väärtused. Juhul, kui antud operatsioon ei ole võimalik sooritada, tuleb väljastada seletav teade (mis juhtum see on?).
 
+Salvesta fail nimega `mata2.fprg`
 ### Ülesanne X
 Varusta kõik oma programmid kommentaaridega:
 * failinimi
