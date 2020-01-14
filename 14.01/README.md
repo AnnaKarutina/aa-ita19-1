@@ -18,6 +18,32 @@ väiksem võrdub|`<=`|
 
 ### Tingimuslause 
 
+* Kõikides eelnevates praktikumides koostasime programme, mille operaatorid (direktiivid) täideti üksteise järel, alates programmi algusest (esimesena kirja pandud operaatorist (direktiivist)) kuni lõpuni.
+ 
+* On olemas palju ülesandeid, mida sellel viisil pole võimalik lahendada, käesolevas praktikumis vaatleme niisuguseid näiteid. Tingimusoperaatori (tingimusdirektiivi) abil saab vastavalt andmete korrektsetele väärtustele programmi täitmise kulgu suunata.
+
+* Tingimusdirektiivi üldine kuju on
+```
+if (loogiline avaldis) 
+    direktiiv_1 - täidetakse kui loogiline avaldis annab true tulemust
+else 
+    direktiiv_2 - täidetakse kui loogiline avaldis annab false tulemust
+```
+* Tingimusdirektiiv algab sõnaga if, millele järgneb ümarsulgudes loogiline avaldis (avaldis, mille väärtus saab olla kas tõene (`true`) või väär (`false`)) ja sellele omakorda direktiiv, mis täidetakse siis, kui loogiline avaldis on tõene (`true`). 
+
+* Sõnale else aga järgneb direktiiv, mis täidetakse siis, kui loogiline avaldis on väär (`false`). Ühe direktiivi rollis võib olla ka plokk (programmi lõik)
+
+* Tingimusdirektiivi else osa võib ka üldse puududa
+```
+if (loogiline avaldis) 
+    direktiiv_1 - täidetakse siis, kui loogiline avaldis annab true
+```
+### Näidised
+#### Absoluutväärtuse leidmine
+<img src="http://anna.ikt.khk.ee/aa_ita19/14.01/absoluutvaartus.png" width="500" alt="absoluutvaartus.png">
+
+#### Kehamassiindeksi väärtuse järgi inimese tervise hindamine
+<img src="http://anna.ikt.khk.ee/aa_ita19/14.01/kmi.png" width="500" alt="absoluutvaartus.png">
 
 ## Teoreetiline materjall
 [Tingimuslause](https://web.htk.tlu.ee/digitaru/programmeerimine/chapter/tingimuslause/)
