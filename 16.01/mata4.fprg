@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="anna.karutina"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-01-16 01:33:34 PM"/>
+        <attribute name="created" value="YW5uYS5rYXJ1dGluYTtLUEwtQTQxMS0wMDsyMDIwLTAxLTE2OzAxOjE3OjEwIFBNOzMyMjE="/>
+        <attribute name="edited" value="YW5uYS5rYXJ1dGluYTtLUEwtQTQxMS0wMDsyMDIwLTAxLTE2OzAxOjMzOjM0IFBNOzE7MzMzMw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c" type="Real" array="False" size=""/>
+            <assign variable="a" expression="-7"/>
+            <assign variable="b" expression="4"/>
+            <assign variable="c" expression="5"/>
+            <comment text="kui a on null - see ei ole ruutv&#245;rrand"/>
+            <if expression="a == 0">
+                <then>
+                    <output expression="&quot;See ei ole ruutv&#245;rrand&quot;" newline="True"/>
+                </then>
+                <else>
+                    <comment text="otsime lahendust"/>
+                    <declare name="x1, x2, d" type="Real" array="False" size=""/>
+                    <comment text="diskriminant"/>
+                    <assign variable="d" expression="b * b - 4 * a * c"/>
+                    <if expression="d &gt;= 0">
+                        <then>
+                            <assign variable="x1" expression="(-b + Sqrt(d)) / (2 * a)"/>
+                            <assign variable="x2" expression="(-b - Sqrt(d)) / (2 * a)"/>
+                            <output expression="&quot;x1 = &quot; &amp; x1" newline="True"/>
+                            <output expression="&quot;x2 = &quot; &amp; x2" newline="True"/>
+                        </then>
+                        <else>
+                            <comment text="Kuna ei ole v&#245;imalik leida ruutjuur negatiivsest numbrist"/>
+                            <output expression="&quot;Lahendused puuduvad&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
