@@ -16,7 +16,12 @@ Kirjutada programm, mis arvutab ruutvõrrandi lahendid. Tuleb omistada võrrandi
 
 Salvesta fail nimega `mata4.fprg`
 
+### Ülesanne 2
+Antud punkti koordinaadid x ja y (reaalarvud). Kirjutada programm, mis vastavalt etteantud punktile väljastab punktide koordinaatide väärtuseid ja kirjelduse, milles koordinaattasandi veerandis antud punkt paikneb. Kui punkt paikneb teljel, siis väljastatakse tekst "Antud punkt paikneb teljel." Programmi töö tulemus võib olla näiteks selline:
 
+`Punkt koordinaatidega 2.0 ja 5.5 asub I veerandis.`
+
+Salvesta fail nimega `mata5.fprg`
 
 ### Ülesanne X
 Varusta kõik oma programmid kommentaaridega:
