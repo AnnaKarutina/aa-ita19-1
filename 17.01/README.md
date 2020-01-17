@@ -1,4 +1,4 @@
-# 16.01
+# 17.01
 ## Tunni teemad
 ### Tingimuslaused - teoreetiline materjal
 Võimalikud juhtumid
@@ -69,4 +69,4 @@ Varusta kõik oma programmid kommentaaridega:
 * programmi loomise kuupäev
 * programmi versioon (0.1 - algversioon, 0.2 - parandused pärast salvestamist jne)
 ### Ülesanne 7
-Kopeeri `AA` kataloogs oleva `praks5` kataloog GoogleDrive-i ja <b>kui ei ole veel seda teinud, siis</b> jaga [anna.karutina@khk.ee]("mailto:anna.karutina@khk.ee") vaatamisõigustega.
+Kopeeri `AA` kataloogs oleva `praks6` kataloog GoogleDrive-i ja <b>kui ei ole veel seda teinud, siis</b> jaga [anna.karutina@khk.ee]("mailto:anna.karutina@khk.ee") vaatamisõigustega.
