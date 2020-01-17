@@ -1,7 +1,53 @@
 # 16.01
 ## Tunni teemad
 ### Tingimuslaused
+Vahel on vaja eristada programmi täitmisel rohkem kui kahte haru. 
 
+Seda saab realiseerida mitme tingimusdirektiiviga üksteise sees, näiteks:
+```
+	if (tingimus_1)
+		if (tingimus_2)
+			//tingimus_1 ja tingimus_2 on mõlemad täidetud
+			direktiivid
+		else
+			//tingimus_1 on täidetud, aga tingimus_2 mitte
+			direktiivid
+	else
+		//tingimus_1 ei ole täidetud (tingimus_2 ei mõju)
+		direktiivid
+```
+Või teine võimalus, et tingimusdirektiivid on üks teisega seoses ja kontrollitakse üks teise järel, nagu ketti moodi:
+```
+    if (tingimus_1)
+    {
+        direktiiv_1;
+        direktiiv_2;
+        direktiiv_3;
+    }
+    else if (tingimus_2)
+    {
+        direktiiv_4;
+        direktiiv_5;
+    }
+    else
+    {
+        direktiiv_6;
+        direktiiv_7;
+        direktiiv_8;
+    }
+```
+### Loogilised tehted ja avaldised
+[Loogilised operaatorid](https://github.com/AnnaKarutina/aa-ita19-1/tree/master/13.01)
+Loogilised avaldised on võimalik moodustada mitte ainult tõeväärtuste abil, vaid kasutades ka tingimuslaused, mille tulemused ongi tõeväärtused. Näiteks 
+
+`avaldis1 && avaldis2`
+
+või
+
+`avaldis1 || avaldis2`
+
+Sellega tekkivad suuremad laused, kus kontrollitakse korraga mitu tingimust. 
+Näiteks: `a > 0  && a < 5` võimaldab kontrollida, et a väärtus on vahemikust `(0; 5)` ehk ta peab olema rangelt suurem kui 0 ja rangelt väiksem kui 5. 
 ## Teoreetiline materjall
 [Tingimuslause](https://web.htk.tlu.ee/digitaru/programmeerimine/chapter/tingimuslause/)
 
