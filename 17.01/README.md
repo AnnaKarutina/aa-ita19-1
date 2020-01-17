@@ -65,10 +65,23 @@ või
 ```
 Salvesta fail nimega `liigaasta.fprg`
 ### Ülesanne 6
+Tutvu [Isikukoodi](https://et.wikipedia.org/wiki/Isikukood) struktuuriga. Deklareeri vastavad muutujad ning omista neile väärtused isikukoodi väärtusest. Näiteks kui isikukood on 49403136515, siis
+```
+    sugu = 4
+    aasta = 94
+    kuu = 3
+```
+jne.
+
+Koosta prograam, mis kõigepealt kontrollib, et antud isikukood on kehtiv ning siis väljastab kõik vajalik info antud isikukoodiga inimesest - et ta on mees või naine, mis on tema sünnikuupäev kujul päev, kuu nimetus, aasta, kus ta on sündinud jne.
+
+Salvesta fail nimega `id.fprg`
+
+### Ülesanne 7
 Varusta kõik oma programmid kommentaaridega:
 * failinimi
 * autor  - Ees ja Perenimi
 * programmi loomise kuupäev
 * programmi versioon (0.1 - algversioon, 0.2 - parandused pärast salvestamist jne)
-### Ülesanne 7
+### Ülesanne 8
 Kopeeri `AA` kataloogs oleva `praks6` kataloog GoogleDrive-i ja <b>kui ei ole veel seda teinud, siis</b> jaga [anna.karutina@khk.ee]("mailto:anna.karutina@khk.ee") vaatamisõigustega.
