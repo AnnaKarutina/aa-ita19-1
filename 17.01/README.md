@@ -76,12 +76,20 @@ jne.
 Koosta prograam, mis kõigepealt kontrollib, et antud isikukood on kehtiv ning siis väljastab kõik vajalik info antud isikukoodiga inimesest - et ta on mees või naine, mis on tema sünnikuupäev kujul päev, kuu nimetus, aasta, kus ta on sündinud jne.
 
 Salvesta fail nimega `id.fprg`
-
 ### Ülesanne 7
+Koosta programm, mis kontrollib ette antud aasta numbri puhul, mitu päeva on antud aastal. Näiteks
+
+```
+    Aastal 2019 on 365 päeva.
+```
+<b>Vihje:</b>: Liigaastas on 366 päeva, tavaaastas aga 365. Lisaks olemas veel sajandid.
+
+Salvesta fail nimega `paeva_arv_aastas.fprg`
+### Ülesanne 8
 Varusta kõik oma programmid kommentaaridega:
 * failinimi
 * autor  - Ees ja Perenimi
 * programmi loomise kuupäev
 * programmi versioon (0.1 - algversioon, 0.2 - parandused pärast salvestamist jne)
-### Ülesanne 8
+### Ülesanne 9
 Kopeeri `AA` kataloogs oleva `praks6` kataloog GoogleDrive-i ja <b>kui ei ole veel seda teinud, siis</b> jaga [anna.karutina@khk.ee]("mailto:anna.karutina@khk.ee") vaatamisõigustega.
