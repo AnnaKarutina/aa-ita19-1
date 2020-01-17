@@ -53,6 +53,7 @@ või
 ```
    Arv 8 on paaris
 ```
+Salvesta fail nimega `paarsus.fprg`
 ### Ülesanne 5
 Koosta programm, mis etteantud aastaarvu korrak kontrollib, kas tegemist [liigaastaga](https://et.wikipedia.org/wiki/Liigaasta) või mitte ja väljastab tulemus kujul.
 ```
@@ -62,6 +63,7 @@ või
 ```
     Aasta 2020 on liigaasta.
 ```
+Salvesta fail nimega `liigaasta.fprg`
 ### Ülesanne 6
 Varusta kõik oma programmid kommentaaridega:
 * failinimi
