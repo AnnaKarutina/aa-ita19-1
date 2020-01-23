@@ -41,6 +41,11 @@ Koosta programm, mis etteantud täisarvu korral arvutab antud arvu numbrite summ
 Salvesta fail nimega `arvude_summa.fprg`
 
 ### Ülesanne 4
+Koosta programm, mis leiab kõige suurem number arvu sees. Näiteks kui arv on `695`, siis programm tuvastab, et suurem number on `9`.
+
+Salvesta fail nimega `suurem_number.fprg`
+
+### Ülesanne 5
 Koosta mäng, kus saate ära arvata arvuti poolt mõeldud täisarvu ühest viiekümneni. Programm peab töötama seni kuni õige arv on leitud ning teavitama sellest kasutajat.
 
 Täienda programmi nii, et vale arvu sisestamisel antakse kasutajale vihje, kas arvuti poolt valitud arv on suurem või väiksem kasutaja sisestatud arvust.
