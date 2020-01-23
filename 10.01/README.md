@@ -74,7 +74,7 @@ mahajäänud inimeste arvu
 Väljatrükk peab koosnema täislauseteks.
 
 Salvesta fail `buss.fprg`
-### Ülesanne 4 - <b>KODUNE Ülesanne</b>
+### Ülesanne 4
 Küpsisetordi tegemisel laotakse terved ruudukujulised küpsised ristkülikukujulisele kandikule. Kandikule mahub ühes kihis `kandikuPikkus * kandikuLaius` küpsist. Laotakse `tordiPaksus` kihti. Ühes küpsisepakis on `küpsistPakis` küpsist. Püstitage ülesanne küpsisetordi tegemise kohta ja lahendage see. Programm peab väljastama ülesande püstituse ja kõik algväärtuseid ja tulemusi.
 
 Salvesta fail `tort.fprg`
