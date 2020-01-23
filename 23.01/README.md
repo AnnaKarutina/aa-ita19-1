@@ -34,7 +34,9 @@ Antud arvud 1-st kuni 20-ni. Kirjutage programm, mis kontrollib, kas iga arv ant
 Salvesta fail nimega `algarv.fprg`
 
 ### Ülesanne 3
-Koosta programm, mis etteantud täisarvu korral arvutab antud arvu numbrite summat. Näiteks on antud ette arv `123`, siis programm suudab leida, et `1 + 2 + 3` on `6`. Programm peab töötama suvalise täisarvuga, ka negatiivse väärtusega.
+Koosta programm, mis etteantud täisarvu korral arvutab antud arvu numbrite summat. Näiteks on antud ette arv `123`, siis programm suudab leida, et `1 + 2 + 3` on `6`. Programm peab töötama suvalise täisarvuga, ka negatiivse väärtusega. Sõnetöötlust kasutada ei tohi, ainult numbriliselt.
+
+<b>Vihje</b>: püüa lahendada mitte `1 + 2 + 3` kujul vaid `3 + 2 + 1` kujul. 
 
 Salvesta fail nimega `arvude_summa.fprg`
 
