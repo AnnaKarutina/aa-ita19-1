@@ -40,7 +40,16 @@ Koosta programm, mis etteantud täisarvu korral arvutab antud arvu numbrite summ
 
 Salvesta fail nimega `arvude_summa.fprg`
 
+### Ülesanne 4
+Koosta mäng, kus saate ära arvata arvuti poolt mõeldud täisarvu ühest viiekümneni. Programm peab töötama seni kuni õige arv on leitud ning teavitama sellest kasutajat.
 
+Täienda programmi nii, et vale arvu sisestamisel antakse kasutajale vihje, kas arvuti poolt valitud arv on suurem või väiksem kasutaja sisestatud arvust.
+
+Täienda programmi selliselt, et kui õige vastuse ja kasutaja sisestatud arvu vahe on väiksem või võrdne 5-ga, siis teavitatakse kasutajat, et ta on õigele vastusele juba üsna lähedale jõudnud.
+
+Juhuarvu loomiseks kasuta funktsiooni `Random(arv)`, mis annab juhuslik väärtus `0` vahel `(arv-1)`.
+
+Salvesta fail nimega `arvude_mang.fprg`
 ### Ülesanne X
 Varusta kõik oma programmid kommentaaridega:
 * failinimi
