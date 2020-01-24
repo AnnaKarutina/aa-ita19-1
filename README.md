@@ -26,11 +26,11 @@
 #### 20.01 - 24.01
 ##### Praktilised tööd - 8 tundi
   * 20.01 -  Tsüklid. Üldtsükkel
-  * 23.01 -  Üldtsükkel. Mitmekordsed tsüklid (näitena kahekordsed tsüklid)
-  * 24.01 -  Eelkontrolliga ja järelkontrolliga tsüklid.
-  * 24.01 -  Tsüklite töö katkestamisvõimalused. 
+  * 23.01 -  Eelkontrolliga tsükel.
+  * 24.01 -  Järelkontrolliga tsükkel. Tsüklite töö katkestamisvõimalused.
+  * 24.01 -  Üldtsükkel. Mitmekordsed tsüklid (näitena kahekordsed tsüklid). 
 ##### Iseseisev töö - 3 tundi
-  * Kodune ülesanne 3
+  * Kodune ülesanne 3 - 
 #### 27.01 - 31.01
 ##### Praktilised tööd - 8 tundi
   * 27.01 - Massiivid (ühemõõtmelised) ja nende töötlus
