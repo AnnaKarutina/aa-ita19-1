@@ -48,6 +48,9 @@ Output("Jarjendi esimene element on " & a[0]);
 ```
 väljastab ekraanile järjendi `a` esimese elemendi väärtuse
 
+#### Näide arvujärjendi loomisest ja töötlemisest
+<img src="http://anna.ikt.khk.ee/aa_ita19/27.01/naide1.PNG" width="500" alt="absoluutvaartus.png">
+
 ### Lisalugemist
 * [Järjend](https://web.htk.tlu.ee/digitaru/programmeerimine/chapter/jarjend/)
 
