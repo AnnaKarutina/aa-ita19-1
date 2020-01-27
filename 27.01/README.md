@@ -89,10 +89,30 @@ Seega vaadati 12 detailist läbi 8 ehk 66.7%, vaatamata jäi 4 ehk 33.3%.
 Salvesta fail nimega `jarjend4.fprg`
 
 ### Ülesanne 5
+Koosta programm, mis väljastab esialgse järjendi ning teisendab kõik järjendi elemendid vastupidiseks.
+
+Salvesta fail nimega `jarjend5.fprg`
+
+### Ülesanne 6
+Koosta programm, mis järjendi kõige suurem ja kõige väksema väärtusega elemendid, ning väljastab nii nende väärtused kui ka indeksid.
+
+Salvesta fail nimega `jarjend6.fprg`
+
+### Ülesanne 7
+Koosta programm, mis aitab lastel treenida liitmist. Programm peaks pakkuma välja juhuslike arvudega liitmistehteid ning ootama kasutajalt vastust. Kui vastus on õige, kiitma kasutajat, kui aga vale, andma õige vastuse ja esitama uue tehte. Järjest esitatavate tehete hulk võib olla programmis ette antud (näiteks 10), samuti võib olla ette antud piirid, kui suuri arve
+kasutajalt küsitakse (näiteks 1 kuni 50). Programm peaks pidama arvestust ka õigete vastuste üle ning väljastama pärast viimast tehet tulemuse. 
+
+Muutke programmi selliselt, et kasutajalt küsitakse ka teisi tehteid (lahutamine, korrutamine, jagamine). Tehte võite küsida kasutajalt või lasta arvutil genereerida erinevad tehted iga arvutuse kohta.
+
+Muutke programmi nii, et esitavate arvude piirid saab kasutaja ette anda – nii maksimumi kui ka miinimumi.
+
+Salvesta fail nimega `mata_mang.fprg`
+
+### Ülesanne 8
 Varusta kõik oma programmid kommentaaridega:
 * failinimi
 * autor  - Ees ja Perenimi
 * programmi loomise kuupäev
 * programmi versioon (0.1 - algversioon, 0.2 - parandused pärast salvestamist jne)
-### Ülesanne 11
+### Ülesanne 8
 Kopeeri `AA` kataloogs oleva `praks10` kataloog GoogleDrive-i ja <b>kui ei ole veel seda teinud, siis</b> jaga [anna.karutina@khk.ee]("mailto:anna.karutina@khk.ee") vaatamisõigustega.
