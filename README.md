@@ -36,7 +36,7 @@
   * :white_check_mark: 27.01 - Massiivid (ühemõõtmelised) - loomine ja väärtuste lisamine
   * :white_check_mark: 28.01 - Massiivide töötlus - elementide otsimine
   * :white_check_mark: 28.01 - Massiivide töötlus - elementide sorteerimine
-  * 30.01 - Sõnetöötlus (sarnasus massiivitöötlusega) 
+  * :white_check_mark: 30.01 - Sõnetöötlus (sarnasus massiivitöötlusega) 
 ##### Iseseisev töö - 3 tundi
   * Kodune ülesanne 4
 #### 03.02 - 07.02
