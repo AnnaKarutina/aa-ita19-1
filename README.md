@@ -14,7 +14,7 @@
   * :white_check_mark: 09.01 - Sissejuhatus ainesse 
   * :white_check_mark: 10.01 -  Andmetüübid ja muutujad, Operaatorid ja avaldised
 ##### Iseseisev töö - 3 tundi
-  * Kodune ülesanne 1 - Tordi ülesanne
+  * :house: Kodune ülesanne 1 - Tordi ülesanne
 #### 13.01 - 17.01
 ##### Praktilised tööd - 8 tundi
   * :white_check_mark: 13.01 - Tõeväärtused
@@ -22,7 +22,7 @@
   * :white_check_mark: 16.01 - Sisseehitatud tingimuslause
   * :white_check_mark: 17.01 - Seostatud tingimuslause
 ##### Iseseisev töö - 3 tundi
-  * Kodune ülesanne 2 - Isikukoodi ülesanne
+  * :house: Kodune ülesanne 2 - Isikukoodi ülesanne
 #### 20.01 - 24.01
 ##### Praktilised tööd - 8 tundi
   * :white_check_mark: 20.01 -  Tsüklid. Üldtsükkel
@@ -30,7 +30,7 @@
   * :white_check_mark: 24.01 -  Järelkontrolliga tsükkel. Tsüklite töö katkestamisvõimalused.
   * :white_check_mark: 24.01 -  Üldtsükkel. Mitmekordsed tsüklid (näitena kahekordsed tsüklid). 
 ##### Iseseisev töö - 3 tundi
-  * Kodune ülesanne 3 - 
+  * :house: Kodune ülesanne 3 - tärniraam
 #### 27.01 - 31.01
 ##### Praktilised tööd - 8 tundi
   * :white_check_mark: 27.01 - Massiivid (ühemõõtmelised) - loomine ja väärtuste lisamine
@@ -38,7 +38,7 @@
   * :white_check_mark: 28.01 - Massiivide töötlus - elementide sorteerimine
   * :white_check_mark: 30.01 - Sõnetöötlus (sarnasus massiivitöötlusega) 
 ##### Iseseisev töö - 3 tundi
-  * Kodune ülesanne 4
+  * :house: Kodune ülesanne 4 - Kasutajanime moodustamisülesanne
 #### 03.02 - 07.02
 ##### Praktilised tööd - 8 tundi
   * :raised_hand: 03.02 - ? 
