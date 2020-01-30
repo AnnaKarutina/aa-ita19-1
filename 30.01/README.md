@@ -62,10 +62,17 @@ Eeldused:
 Salvesta fail nimega `id_sone.fprg`
 
 ### Ülesanne 2
+Koosta programm, mis küsib kasutaja käest tema ees ja perenimi ning nende põhjal moodustab kasutajanimi kujul `eesnimi.perenimi`. 
+
+<b>Vihje: </b>
+Sümbolite registri teisendamiseks võib kasutada tüübiteisendusfunktsiooni `toCode(symbol)` ning [ASCII](https://ascii.cl/) tabeli <i>decimal</i> väärtuste vahelist sõltuvust.
+
+Salvesta fail nimega `kasutaja.fprg`
+### Ülesanne 3
 Varusta kõik oma programmid kommentaaridega:
 * failinimi
 * autor  - Ees ja Perenimi
 * programmi loomise kuupäev
 * programmi versioon (0.1 - algversioon, 0.2 - parandused pärast salvestamist jne)
-### Ülesanne 3
+### Ülesanne 4
 Kopeeri `AA` kataloogs oleva `praks11` kataloog GoogleDrive-i ja <b>kui ei ole veel seda teinud, siis</b> jaga [anna.karutina@khk.ee]("mailto:anna.karutina@khk.ee") vaatamisõigustega.
