@@ -1,4 +1,4 @@
-# 29.01
+# 30.01
 ## Tunni teemad
 ### Järjendid - massiivid - näitena sõne
 #### Sõne töötlus
