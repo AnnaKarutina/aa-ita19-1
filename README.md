@@ -41,8 +41,12 @@
   * :house: Kodune ülesanne 4 - Kasutajanime moodustamisülesanne
 #### 03.02 - 07.02
 ##### Praktilised tööd - 8 tundi
-  * :raised_hand: 03.02 - ? 
-  * :raised_hand: 03.02 - ?   
+  * :white_check_mark: 03.02 
+      * funktsiooni defineerimine
+      * funktsiooni parameetrid
+      * funktsiooni kutsumine tööle
+      * funktsiooni argumendid 
+  * :white_check_mark: 03.02 - Funktsiooni tulemuste tagastamine põhiprogrammile   
   * :raised_hand: 07.02 - ?
   * :raised_hand: 07.02 - ?
 #### 10.02 - 14.02
