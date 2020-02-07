@@ -47,8 +47,8 @@
       * funktsiooni kutsumine tööle
       * funktsiooni argumendid 
   * :white_check_mark: 03.02 - Funktsiooni tulemuste tagastamine põhiprogrammile   
-  * :raised_hand: 07.02 - ?
-  * :raised_hand: 07.02 - ?
+  * :white_check_mark: 07.02 - Korduvate tegevuste sooritamine erinevate sisenditega
+  * :white_check_mark: 07.02 - Korduvate tegevuste sooritamine erinevate sisenditega
 #### 10.02 - 14.02
 ##### Praktilised tööd - 4 tundi
   * :raised_hand: 10.02 - Kordamine
